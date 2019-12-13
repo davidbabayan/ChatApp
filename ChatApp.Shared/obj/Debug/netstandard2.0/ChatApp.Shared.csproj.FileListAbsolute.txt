@@ -1,0 +1,8 @@
+C:\Users\david\source\repos\ChatApp\ChatApp.Shared\bin\Debug\netstandard2.0\ChatApp.Shared.deps.json
+C:\Users\david\source\repos\ChatApp\ChatApp.Shared\bin\Debug\netstandard2.0\ChatApp.Shared.dll
+C:\Users\david\source\repos\ChatApp\ChatApp.Shared\bin\Debug\netstandard2.0\ChatApp.Shared.pdb
+C:\Users\david\source\repos\ChatApp\ChatApp.Shared\obj\Debug\netstandard2.0\ChatApp.Shared.csprojAssemblyReference.cache
+C:\Users\david\source\repos\ChatApp\ChatApp.Shared\obj\Debug\netstandard2.0\ChatApp.Shared.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\ChatApp\ChatApp.Shared\obj\Debug\netstandard2.0\ChatApp.Shared.AssemblyInfo.cs
+C:\Users\david\source\repos\ChatApp\ChatApp.Shared\obj\Debug\netstandard2.0\ChatApp.Shared.dll
+C:\Users\david\source\repos\ChatApp\ChatApp.Shared\obj\Debug\netstandard2.0\ChatApp.Shared.pdb
