@@ -3,6 +3,7 @@ using System.Linq;
 using ChatApp.Shared.Context;
 using ChatApp.Shared.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Hosting;
 
 namespace ChatApp.API.Controllers
 {
@@ -11,10 +12,12 @@ namespace ChatApp.API.Controllers
     public class UsersController : ControllerBase
     {
         private UserContext userContext;
+        private readonly IWebHostEnvironment _hostingEnvironment;
 
-        public UsersController()
+        public UsersController(IWebHostEnvironment hostingEnvironment)
         {
-            userContext = new UserContext();
+            _hostingEnvironment = hostingEnvironment;
+            userContext = new UserContext(_hostingEnvironment.ContentRootPath + @"/Data/Users.json");
         }
         [HttpGet]
         public List<User> GetUsers()

@@ -20,3 +20,4 @@ C:\Users\david\source\repos\ChatApp\ChatApp.API\obj\Debug\netcoreapp3.0\ChatApp.
 C:\Users\david\source\repos\ChatApp\ChatApp.API\obj\Debug\netcoreapp3.0\ChatApp.API.csproj.CopyComplete
 C:\Users\david\source\repos\ChatApp\ChatApp.API\obj\Debug\netcoreapp3.0\ChatApp.API.dll
 C:\Users\david\source\repos\ChatApp\ChatApp.API\obj\Debug\netcoreapp3.0\ChatApp.API.pdb
+C:\Users\david\source\repos\ChatApp\ChatApp.API\bin\Debug\netcoreapp3.0\Data\Users.json

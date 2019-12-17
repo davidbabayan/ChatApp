@@ -16,7 +16,7 @@ namespace ChatApp.API.Controllers
 
         public ChatsController()
         {
-            userContext = new UserContext();
+            userContext = new UserContext(@"~/Data/Users.json");
             chatContext = new ChatContext();
         }
 
